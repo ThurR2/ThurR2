@@ -1,7 +1,6 @@
 <h1 align="center">Ola 👋, Eu sou o Arthur</h1>
 <h3 align="center">Um amante de tecnologia e produtividade, atualmente estudante.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thurr2" alt="thurr2" /></a> </p>
 
 <h3 align="left">Me siga:</h3>
 <p align="left">
