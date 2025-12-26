@@ -1,8 +1,5 @@
 <h1 align="center">Ola 👋, Eu sou o Arthur</h1>
 <h3 align="center">Um amante de tecnologia e produtividade, atualmente estudante.</h3>
-
-
-<h3 align="left">Me siga:</h3>
 <p align="left">
 <a href="https://dev.to/thurr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thurr2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arthursga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@arthursga" height="30" width="40" /></a>
